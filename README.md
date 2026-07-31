@@ -37,6 +37,7 @@ Create Database or Import Database from backup
 Open the project in Visual Studio Code
 Install C# Dev Kit
 Run the project
+
 Note
 
 You can also use Visual Studio or your favorite IDE to run this project.
