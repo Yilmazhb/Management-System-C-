@@ -10,7 +10,6 @@ scenario.
 
 
 
-
 create database StudentManagementSystem
 
 use StudentManagementSystem
